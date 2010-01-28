@@ -1,3 +1,8 @@
 Foe drug name detection, the download files are necessary. Just skip the errors.
 
 For mediation fields, the Splitta is need. Please go to splitta website and download it. [http://code.google.com/p/splitta] Unzip the files into the folder named splitta. 
+
+An example command line:
+
+#use lancet model to parse the article.
+java -jar LancetParser.jar -c lancet -i ./data/disx/ -o ./data/sysout/
