@@ -1,6 +1,4 @@
 #labels Featured,Phase-Support
-#Summary last update.
-
 = Update May 15 2010 =
 
 This is an updated release of LancetMedExtractor which is ranked in the 2009 i2b2 NLP Medication Challenge. New features in this release:
