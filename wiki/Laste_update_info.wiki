@@ -1,7 +1,7 @@
 #labels Featured,Phase-Support
 = Update May 15 2010 =
 
-This is an updated release of LancetMedExtractor which is ranked in the 2009 i2b2 NLP Medication Challenge. New features in this release:</p>
+This is an updated release of LancetMedExtractor which is ranked in the 2009 i2b2 NLP Medication Challenge. New features in this release:<b>
 1) all resources are bundled together into a runnable jar file. 
 In the first release, user need many efforts to make Lancet runnable. In this release, all resource are packaged into one runnable package. One file does everything.
 2) A demo show
