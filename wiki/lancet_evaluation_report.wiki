@@ -1,6 +1,6 @@
 #labels evaluation,report,lancet
 ||#in/exact||vert/horiz||sys/pat||tag/X||fmeasure||precision||recall||
-||inexact||horizontal||system-level||X||0.7651|| * 0.9399* ||0.6451||
+||inexact||horizontal||system-level||X|| *0.7651* || * 0.9399* ||0.6451||
 ||inexact||horizontal||patient-level||X||0.740684063745||0.927651394422||0.633698804781||
 ||inexact||vertical||system-level||do||0.8334||0.9536||0.74||
 ||inexact||vertical||patient-level||do||0.811843621399||0.930713580247||0.738458024691||
