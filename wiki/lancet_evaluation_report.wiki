@@ -2,9 +2,9 @@
 ||#in/exact||vert/horiz||sys/pat||tag/X||fmeasure||precision||recall||
 ||inexact||horizontal||system-level||X|| *0.7651* || * 0.9399* ||0.6451||
 ||inexact||horizontal||patient-level||X||0.740684063745||0.927651394422||0.633698804781||
-||inexact||vertical||system-level||do||0.8334||0.9536||0.74||
+||inexact||vertical||system-level||do|| *_0.8334_* ||0.9536||0.74||
 ||inexact||vertical||patient-level||do||0.811843621399||0.930713580247||0.738458024691||
-||inexact||vertical||system-level||f||0.797||0.9566||0.683||
+||inexact||vertical||system-level||f|| *_0.797_* ||0.9566||0.683||
 ||inexact||vertical||patient-level||f||0.789100840336||0.939128571429||0.702760084034||
 ||inexact||vertical||system-level||mo||0.8096||0.9654||0.697||
 ||inexact||vertical||patient-level||mo||0.735844628099||0.866947933884||0.663392561983||
