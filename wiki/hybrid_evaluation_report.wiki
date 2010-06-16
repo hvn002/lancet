@@ -14,8 +14,8 @@
 ||inexact||vertical||patient-level||r||0.0419987179487||0.128751282051||0.0293632478632||
 ||inexact||vertical||system-level||du||0.2232||0.733||0.1316||
 ||inexact||vertical||patient-level||du||0.203891847826||0.340018478261||0.170569565217||
-||exact||horizontal||system-level||X||*0.7896*||0.8469||0.7395||
-||exact||horizontal||patient-level||X||*0.776494820717*||0.838442629482||0.733724302789||
+||exact||horizontal||system-level||X|| *0.7896* ||0.8469||0.7395||
+||exact||horizontal||patient-level||X|| *0.776494820717* ||0.838442629482||0.733724302789||
 ||exact||vertical||system-level||do||0.8175||0.8611||0.7782||
 ||exact||vertical||patient-level||do||0.80559218107||0.855832098765||0.780581069959||
 ||exact||vertical||system-level||f||0.8244||0.898||0.762||
