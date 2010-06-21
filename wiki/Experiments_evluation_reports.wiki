@@ -33,7 +33,7 @@ Wilcoxon rank sum test versus Lancet147: _P_=0.02857
 ||exact||vertical||system-level||du||0.1739||0.4957||0.1055||
 ||exact||vertical||patient-level||du||0.128023369565||0.200724456522||0.107019565217||
 
-==Digital Normalization: Lancet147==
+==DigitalNormalization: Lancet147==
 Wilcoxon rank sum test versus Lancet147: _P_=0.3429
 
 ||#in/exact||vert/horiz||sys/pat||tag/X||fmeasure||precision||recall||
@@ -67,7 +67,7 @@ Wilcoxon rank sum test versus Lancet147: _P_=0.3429
 ||exact||vertical||patient-level||du||0.132955434783||0.201086956522||0.113739673913||
 
 
-==Affix:Lancet147==
+==AffixDict:Lancet147==
 Wilcoxon rank sum test versus Lancet147: _P_= 0.3429
 
 ||#in/exact||vert/horiz||sys/pat||tag/X||fmeasure||precision||recall||
@@ -100,7 +100,7 @@ Wilcoxon rank sum test versus Lancet147: _P_= 0.3429
 ||exact||vertical||system-level||du||0.1769||0.5043||0.1073||
 ||exact||vertical||patient-level||du||0.12789076087||0.202083695652||0.108576630435||
 
-==Dictionaries: Lancet147==
+==MedDictionaries: Lancet147==
 Wilcoxon rank sum test versus Lancet147: _P_=0.1143
 
 ||#in/exact||vert/horiz||sys/pat||tag/X||fmeasure||precision||recall||
@@ -133,7 +133,7 @@ Wilcoxon rank sum test versus Lancet147: _P_=0.1143
 ||exact||vertical||system-level||du||0.1949||0.5556||0.1182||
 ||exact||vertical||patient-level||du||0.153047826087||0.223278804348||0.137885869565||
 
-==Single Line B:Lancet147==
+==SingleLineB:Lancet147==
 Wilcoxon rank sum test versus Lancet147: _P_= 0.6857
 
 ||#in/exact||vert/horiz||sys/pat||tag/X||fmeasure||precision||recall||
