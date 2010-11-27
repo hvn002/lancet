@@ -1,4 +1,19 @@
-#summary Update May 15 2010
+#summary Update Nov 26 2010
+
+= Update Nov 26 2010 =
+I have wrapped Lancet with a XML-RPC services (written in Java). You could call Lancet by this way. The following is an example XML-PRC client code written in Python.
+{{{
+import xmlrpclib
+s = xmlrpclib.Server('http://129.89.57.69:5282/')
+medlist = s.Lancet.getMedicationList('aspirin 81 mg qid')
+print medlist
+}}}
+
+The output should be something like following. 
+{{{
+m="aspirin" 1:0 1:0||do="81 mg" 1:1 1:2||mo="nm"||f="qid" 1:3 1:3||du="nm"||r="nm"||ln="narrative"
+}}}
+
 = Update May 15 2010 =
 
 This is an updated release of LancetMedExtractor which is ranked in the 2009 i2b2 NLP Medication Challenge. New features in this release:
