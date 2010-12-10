@@ -11,6 +11,6 @@
 
 Extension for adverse drug events
 ||Abbreviation||Explaination||Ontology||
-||ade||adverse drug effect||adverse effect||
+||ad||adverse drug effect||adverse effect||
 ||mt||medDRA term||term||
 ||mc||medDRA code||conceptCode||
