@@ -1,0 +1,16 @@
+#Abbreviations used in Lancet
+
+||Abbreviation||Explaination||
+||m||medicatin name||
+||do||dosage||
+||mo||mode or rout||
+||f||frequency||
+||du||duration||
+||r||reason||
+||ln||list/narrative||
+
+Extension for adverse drug events
+||Abbreviation||Explaination||Ontology||
+||ade||adverse drug effect||adverse effect||
+||mt||medDRA term||term||
+||mc||medDRA code||conceptCode||
