@@ -14,4 +14,4 @@ Extension for adverse drug events
 ||ad||adverse drug effect||adverse effect||
 ||mt||medDRA term||term||
 ||mc||medDRA code||conceptCode||
-||ou||outcome(recover, not completely recover, die, not mention)||outcome||
+||om||outcome(recover, not completely recover, die, not mention)||outcome||
