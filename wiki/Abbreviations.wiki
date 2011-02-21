@@ -1,4 +1,4 @@
-#Abbreviations used in Lancet
+#summary Abbreviations used in Lancet
 
 ||Abbreviation||Explaination||Offset||
 ||m||medicatin name||1||
@@ -15,3 +15,4 @@ Extension for adverse drug events
 ||mt||medDRA term||term||0||
 ||mc||medDRA code||conceptCode||0||
 ||oc||outcome(recover, not completely recover, die, not mention)||outcome||0||
+||ossd||Signs, symptoms or diseases describe in history or ...||other S/S/D||1||
